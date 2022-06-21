@@ -5,4 +5,4 @@ In this repository I want to explore Data manipulation with Python
 
 Content:
 
-*Data Wrangling
+* Data Wrangling
